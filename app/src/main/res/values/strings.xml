@@ -5,4 +5,10 @@
     <string name="btnTopping">Add Topping</string>
     <string name="btnClear">Clear Pizza</string>
     <string name="btnCheckout">Checkout</string>
+    <string name="your_order">Your Order</string>
+    <string name="base_price">Base Price :</string>
+    <string name="toppings">Toppings :</string>
+    <string name="textview">TextView</string>
+    <string name="delivery">Delivery :</string>
+    <string name="total"><u>Total</u></string>
 </resources>
