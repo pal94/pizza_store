@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="items_images">
+        <item>@drawable/bacon</item>
+        <item>@drawable/cheese</item>
+        <item>@drawable/garlic</item>
+        <item>@drawable/green_pepper</item>
+        <item>@drawable/mashroom</item>
+        <item>@drawable/olive</item>
+        <item>@drawable/onion</item>
+        <item>@drawable/red_pepper</item>
+    </integer-array>
+</resources>
